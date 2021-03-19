@@ -357,6 +357,8 @@ img {
   grid-template-areas: "name subject" "email number" "message message";
   gap: 1.2rem;
   margin-bottom: 1.2rem; }
+  #contact-a .text-fields .robot {
+    text-align: center; }
 
 #contact-a .name-input {
   grid-area: name; }
